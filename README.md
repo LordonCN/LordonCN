@@ -3,7 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+update leetcode from Jan 24,KEEP GOING!
 ```
 <!--END_SECTION:waka-->
 <!--

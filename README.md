@@ -1,9 +1,8 @@
-### HI ! THIS IS Lordon 👋
-
+### HI ! This is Lordon's Github 👋
 
 <!--START_SECTION:waka-->
 ```text
-update leetcode from Jan 24,KEEP GOING!
+- 🔭 I’m currently working on leetcode project.
 ```
 <!--END_SECTION:waka-->
 <!--

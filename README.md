@@ -1,4 +1,4 @@
-### Hi there 👋
+### HI ! THIS IS Lordon 👋
 
 
 <!--START_SECTION:waka-->

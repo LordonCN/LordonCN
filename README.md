@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode目前刷题及思路](https://tcloser.github.io/2021/04/07/Leetcode-index/)
+- [面试知识点整理](https://tcloser.github.io/2021/04/07/Q&A/)
 - [搭建V2ray服务器](https://tcloser.github.io/2020/04/26/%E7%BB%8F%E9%AA%8C-V2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/)
 - [打造vim最强编辑器](https://tcloser.github.io/2020/03/26/%E7%BB%8F%E9%AA%8C-VIM%E9%85%8D%E7%BD%AE/)
-
 
 
 ### Github Stats

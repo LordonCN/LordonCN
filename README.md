@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-- 🔭 I’m currently working on Apollo 6.0 with LGSVL Simulator.
+- 🔭 I’m currently working on Apollo 8.0 and adu projects.
 ```
 <!--END_SECTION:waka-->
 <!--
